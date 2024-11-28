@@ -1,9 +1,9 @@
 # About me
 
-- 🌱 I’m currently learning how to write in LaTeX (while studying Physics in college).
-- 💬 Ask me about my interests in Physics and Philosophy.
+- 🌱 I’m currently studying Physics in college.
+- 💬 Ask me about my interests! I like Music, Physics, Math, Philosophy, ...
 - 📫 How to reach me: edo.daurelio@gmail.com
-- ⚡ Fun facts: I listen to NewJeans🐰 and I can speak some toki pona.
+- ⚡ Fun facts: I can speak some toki pona.
 
 <!--
 - 🔭 I’m currently working on ...
