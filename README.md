@@ -1,7 +1,7 @@
 # About me
 
-- 🌱 I’m currently studying Physics in college.
-- 💬 Ask me about my interests! I like Music, Physics, Math, Philosophy, ...
+- 🌱 Third year physics student.
+- 💬 Ask me about my interests! I like Music, Physics, Maths, Philosophy, ...
 - 📫 How to reach me: edo.daurelio@gmail.com
 - ⚡ Fun facts: I can speak some toki pona.
 
